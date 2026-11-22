@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.kediaadvisory.live",
+        "sha256_cert_fingerprints": ["24:75:66:FE:AE:7E:CA:0F:BC:78:D0:46:43:FE:DB:43:0A:80:6B:68:DE:3F:F9:66:3A:0B:D2:FC:29:8D:52:CE"]
+      }
+    }]
